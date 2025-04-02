@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/user/', methods=['GET'])
 def get_user():
     email = request.args.get('email')
-    client = pymongo.MongoClient('mongodb://database:27017/', username='bankuser', password='bankpassword', authSource='bank')
+    client = pymongo.MongoClient('mongodb://database:27017/', username='apiuser', password='9FK6FXHK3Vm9jQniH7y6', authSource='bank')
     db = client['bank']
     collection = db['users']
 
@@ -22,7 +22,7 @@ def transfer():
     sender = request.args.get('sender')
     receiver = request.args.get('receiver')
     amount = request.args.get('amount')
-    client = pymongo.MongoClient('mongodb://database:27017/', username='bankuser', password='bankpassword', authSource='bank')
+    client = pymongo.MongoClient('mongodb://database:27017/', username='apiuser', password='9FK6FXHK3Vm9jQniH7y6', authSource='bank')
     db = client['bank']
     collection = db['users']
 

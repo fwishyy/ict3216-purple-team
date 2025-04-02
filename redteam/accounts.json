@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alice Carpenter",
+        "email": "alice.carpenter@example.com",
+        "password": "zP8m!kVt92#x",
+        "balance": 2483.75
+    },
+    {
+        "name": "Brian Torres",
+        "email": "brian.torres@example.com",
+        "password": "R9&uTbE12^wx",
+        "balance": 1589.2
+    },
+    {
+        "name": "Charlotte Nguyen",
+        "email": "charlotte.nguyen@example.com",
+        "password": "Y!2nmqZx$3Pk",
+        "balance": 764
+    },
+    {
+        "name": "Daniel Murphy",
+        "email": "daniel.murphy@example.com",
+        "password": "mL#71Xte!cKd",
+        "balance": 5327.4
+    },
+    {
+        "name": "Ella Simmons",
+        "email": "ella.simmons@example.com",
+        "password": "n@Vr2QxP8&j3",
+        "balance": 298.1
+    },
+    {
+        "name": "Frankie Patel",
+        "email": "frankie.patel@example.com",
+        "password": "W!3ezXpT#91m",
+        "balance": 913.67
+    },
+    {
+        "name": "Grace Holloway",
+        "email": "grace.holloway@example.com",
+        "password": "tF7&plvK$z0x",
+        "balance": 1904.55
+    },
+    {
+        "name": "Henry Wallace",
+        "email": "henry.wallace@example.com",
+        "password": "Kz8#u1Qm!vTp",
+        "balance": 610.3
+    },
+    {
+        "name": "Isla Benson",
+        "email": "isla.benson@example.com",
+        "password": "qM!49Vut*oXj",
+        "balance": 4729.85
+    },
+    {
+        "name": "Jackie Rhodes",
+        "email": "jackie.rhodes@example.com",
+        "password": "X2$yNbV!73kp",
+        "balance": 329.9
+    }
+]
